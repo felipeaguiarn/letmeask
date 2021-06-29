@@ -16,8 +16,8 @@
 - SCSS
 
 ## Diario do Desenvolvimento
-Att1. >>> 23/06 - frist commit
-Att2. >>> ??
+Att1. >>> 23/06 - 
+Att2, Att3. >>> 29/06 - 
 
 ## Como executar?
 
